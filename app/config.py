@@ -1,0 +1,2 @@
+MODEL_PATH="hustvl/yolos-tiny"
+THRESHOLD_TO_SHOW_OBJECTS=0.3
